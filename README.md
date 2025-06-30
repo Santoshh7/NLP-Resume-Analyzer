@@ -1,8 +1,5 @@
 # NLP-Resume-Analyzer
 This project screens multiple resumes using NLP by comparing them to a given job description. It uses keyword matching and sentence embeddings to compute relevance scores and displays results with a ranking table and bar chart visualization.
-
-# NLP Resume Screener
-
 A smart resume screening tool built using NLP and machine learning. It evaluates resumes against a given job description and ranks them based on skill match and semantic similarity.
 
 ---
