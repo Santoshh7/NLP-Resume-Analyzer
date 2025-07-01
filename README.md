@@ -3,6 +3,7 @@ This project screens multiple resumes using NLP by comparing them to a given job
 A smart resume screening tool built using NLP and machine learning. It evaluates resumes against a given job description and ranks them based on skill match and semantic similarity.
 
 ---
+🔗 [Live Demo on Streamlit](https://nlp-resume-analyzer-qjjxatrddetn96uqjne8vj.streamlit.app/)
 
 ## 🚀 Features
 
